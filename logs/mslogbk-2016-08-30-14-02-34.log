@@ -1,0 +1,2951 @@
+G0,
+RCHEMSTATION	Startup initiated.	11:34:42 06/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	11:34:53 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	11:34:55 06/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	12:54:32 06/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	12:55:38 06/15/2016
+G0,enhanced.chm
+RACQ5973	1101,"({MON} ):  Mass spec fault:  16384"	13:05:01 06/15/2016
+G0,enhanced.chm
+RACQ5973	The system is in STANDBY at runtime 9.40	13:05:01 06/15/2016
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	13:21:12 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:21:12 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inlet flow 22.5 at runtime 7.31	13:21:12 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inl pres 12.3 psi at runtime 9.30	13:21:12 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Oven temp 93 at runtime 9.30	13:21:12 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inlet temp 250 at runtime 9.30	13:21:13 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Aux 1 temp 300 at runtime 9.30	13:21:13 06/15/2016
+G0,
+RMETHOD	Run Error: Instrument error, refer to Logbook	13:21:13 06/15/2016
+G0,
+RCHEMSTATION	Shutdown occurred.	13:21:16 06/15/2016
+G0,
+RCHEMSTATION	Startup initiated.	13:35:15 06/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	13:35:59 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	13:36:53 06/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	13:37:00 06/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:37:09 06/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:39:12 06/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:45:14 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:22:14 06/15/2016
+G0,
+RMETHOD	Acquired SR0884-1.D	14:22:15 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	14:22:16 06/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:34:05 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:11:05 06/15/2016
+G0,
+RMETHOD	Acquired PP509_25.D	15:11:06 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	15:11:07 06/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	15:21:46 06/15/2016
+G0,
+RMETHOD	Acquired TGCB011.D	15:21:47 06/15/2016
+G0,
+RMETHOD	Run Error: Neither GC nor MS data collected;	15:21:47 06/15/2016
+R	Consult Logbook
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD8.M	15:23:06 06/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	15:24:14 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:01:14 06/15/2016
+G0,
+RMETHOD	Acquired TGCB011.D	16:01:14 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	16:01:15 06/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:12:28 06/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:13:43 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:50:43 06/15/2016
+G0,
+RMETHOD	Acquired VP1491.D	16:50:43 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	16:50:44 06/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:01:43 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:38:43 06/15/2016
+G0,
+RMETHOD	Acquired TGP1171.D	17:38:45 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	17:38:45 06/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	18:01:34 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:38:34 06/15/2016
+G0,
+RMETHOD	Acquired SR0885-1.D	18:38:35 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	18:38:35 06/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	18:52:11 06/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	18:53:41 06/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	19:30:41 06/15/2016
+G0,
+RMETHOD	Acquired NT214.D	19:30:42 06/15/2016
+G0,
+REMF	Pump Oil (Days) at 952, limit (90) has been	19:30:43 06/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:31:04 06/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD8.M	09:12:46 06/16/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:18:33 06/16/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:55:32 06/16/2016
+G0,
+RMETHOD	Acquired TGCB012.D	09:55:34 06/16/2016
+G0,
+REMF	Pump Oil (Days) at 953, limit (90) has been	09:55:35 06/16/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:27:55 06/16/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:04:55 06/16/2016
+G0,
+RMETHOD	Acquired TGCB013.D	16:04:56 06/16/2016
+G0,
+REMF	Pump Oil (Days) at 953, limit (90) has been	16:04:56 06/16/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:16:07 06/16/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:53:07 06/16/2016
+G0,
+RMETHOD	Acquired SR0887-1.D	16:53:07 06/16/2016
+G0,
+REMF	Pump Oil (Days) at 953, limit (90) has been	16:53:08 06/16/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:12:34 06/16/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:39:42 06/17/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:49:33 06/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:26:34 06/17/2016
+G0,
+RMETHOD	Acquired DA132.D	12:26:35 06/17/2016
+G0,
+REMF	Pump Oil (Days) at 954, limit (90) has been	12:26:36 06/17/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:04:44 06/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:41:44 06/17/2016
+G0,
+RMETHOD	Acquired DA133.D	13:41:45 06/17/2016
+G0,
+REMF	Pump Oil (Days) at 954, limit (90) has been	13:41:45 06/17/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:50:17 06/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:27:17 06/17/2016
+G0,
+RMETHOD	Acquired PP510P.D	15:27:18 06/17/2016
+G0,
+REMF	Pump Oil (Days) at 954, limit (90) has been	15:27:19 06/17/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:48:56 06/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:25:56 06/17/2016
+G0,
+RMETHOD	Acquired NT215.D	18:25:57 06/17/2016
+G0,
+REMF	Pump Oil (Days) at 954, limit (90) has been	18:25:57 06/17/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:37:09 06/17/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:15:29 06/20/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:21:03 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	08:58:03 06/20/2016
+G0,
+RMETHOD	Acquired DA134.D	08:58:04 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	08:58:05 06/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:03:32 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:40:32 06/20/2016
+G0,
+RMETHOD	Acquired NT216.D	11:40:34 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	11:40:35 06/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:58:07 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:35:07 06/20/2016
+G0,
+RMETHOD	Acquired RE394.D	14:35:08 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	14:35:09 06/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:48:18 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:25:18 06/20/2016
+G0,
+RMETHOD	Acquired SR0886-1.D	15:25:19 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	15:25:19 06/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:55:31 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:32:31 06/20/2016
+G0,
+RMETHOD	Acquired TGP1181.D	16:32:32 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	16:32:32 06/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:17:03 06/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:54:03 06/20/2016
+G0,
+RMETHOD	Acquired RE395.D	17:54:05 06/20/2016
+G0,
+REMF	Pump Oil (Days) at 957, limit (90) has been	17:54:06 06/20/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:28:34 06/20/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:43:13 06/21/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:54:55 06/21/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	08:56:14 06/21/2016
+G0,hpmsd.hlp
+R6890	GC Not Responding, Check Cable/Power Switch	08:56:14 06/21/2016
+G0,
+RMETHOD	Run Error: GC Not Responding, Check Cable/Power	08:56:16 06/21/2016
+R	Switch
+G0,
+RCHEMSTATION	Shutdown occurred.	09:31:40 06/21/2016
+G0,
+RCHEMSTATION	Startup initiated.	09:32:04 06/21/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:32:15 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	09:32:17 06/21/2016
+R	reached and Notification given
+G0,
+RTUNE	 Autotune initiated.	09:33:43 06/21/2016
+G0,
+RTUNE	Setuser After  Wizard:	09:40:41 06/21/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:43:38 06/21/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:47:56 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:24:56 06/21/2016
+G0,
+RMETHOD	Acquired MST083_B_ROH_2.D	10:24:56 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	10:24:57 06/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:43:20 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:20:20 06/21/2016
+G0,
+RMETHOD	Acquired SR0886-2.D	11:20:21 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	11:20:22 06/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:36:23 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:13:23 06/21/2016
+G0,
+RMETHOD	Acquired ME102.D	13:13:24 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	13:13:25 06/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:47:02 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:24:02 06/21/2016
+G0,
+RMETHOD	Acquired TGP1191.D	16:24:04 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	16:24:05 06/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:40:51 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:17:51 06/21/2016
+G0,
+RMETHOD	Acquired PP511P.D	17:17:52 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	17:17:53 06/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:29:20 06/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	18:06:20 06/21/2016
+G0,
+RMETHOD	Acquired NT217.D	18:06:20 06/21/2016
+G0,
+REMF	Pump Oil (Days) at 958, limit (90) has been	18:06:21 06/21/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:55:47 06/21/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:08:21 06/22/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:14:49 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	08:51:49 06/22/2016
+G0,
+RMETHOD	Acquired MST083_C_ROH.D	08:51:49 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	08:51:50 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:54:18 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:31:18 06/22/2016
+G0,
+RMETHOD	Acquired DA135.D	10:31:20 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	10:31:20 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:41:01 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:18:01 06/22/2016
+G0,
+RMETHOD	Acquired NT218.D	11:18:03 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	11:18:03 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:30:39 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	12:07:38 06/22/2016
+G0,
+RMETHOD	Acquired ME103.D	12:07:40 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	12:07:40 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:42:29 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:19:29 06/22/2016
+G0,
+RMETHOD	Acquired MST083_C.D	13:19:31 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	13:19:32 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:35:05 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:12:04 06/22/2016
+G0,
+RMETHOD	Acquired CG2393.D	14:12:05 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	14:12:06 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:25:18 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:02:18 06/22/2016
+G0,
+RMETHOD	Acquired PP512A.D	15:02:19 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	15:02:20 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:15:44 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:52:34 06/22/2016
+G0,
+RMETHOD	Acquired VP150.D	15:52:37 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	15:52:37 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:05:23 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:42:22 06/22/2016
+G0,
+RMETHOD	Acquired TGP1201.D	16:42:25 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	16:42:26 06/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:52:23 06/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:29:45 06/22/2016
+G0,
+RMETHOD	Acquired SR0891-2.D	17:29:47 06/22/2016
+G0,
+REMF	Pump Oil (Days) at 959, limit (90) has been	17:29:51 06/22/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:34:29 06/22/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:04:29 06/23/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:39:58 06/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:16:58 06/23/2016
+G0,
+RMETHOD	Acquired SR0891-1.D	14:17:00 06/23/2016
+G0,
+REMF	Pump Oil (Days) at 960, limit (90) has been	14:17:00 06/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:27:36 06/23/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	15:00:34 06/23/2016
+G0,hpmsd.hlp
+R6890	GC Not Responding, Check Cable/Power Switch	15:00:34 06/23/2016
+G0,
+RMETHOD	Run Error: GC Not Responding, Check Cable/Power	15:00:36 06/23/2016
+R	Switch
+G0,
+RCHEMSTATION	Shutdown occurred.	15:04:48 06/23/2016
+G0,
+RCHEMSTATION	Startup initiated.	15:05:12 06/23/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	15:05:24 06/23/2016
+G0,
+REMF	Pump Oil (Days) at 960, limit (90) has been	15:05:27 06/23/2016
+R	reached and Notification given
+G0,
+RMETHOD	Run Error: Cannot Delete	15:11:18 06/23/2016
+R	D:\MSD_DATA\ME104.D\DATA.MS
+G0,enhanced.chm
+RACQ5973	Run started	15:15:35 06/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:52:35 06/23/2016
+G0,
+RMETHOD	Acquired ME104_1.D	15:52:36 06/23/2016
+G0,
+REMF	Pump Oil (Days) at 960, limit (90) has been	15:52:37 06/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:21:06 06/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:58:06 06/23/2016
+G0,
+RMETHOD	Acquired DA136.D	16:58:07 06/23/2016
+G0,
+REMF	Pump Oil (Days) at 960, limit (90) has been	16:58:08 06/23/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:18:55 06/23/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:20:53 06/24/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:32:38 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	09:09:39 06/24/2016
+G0,
+RMETHOD	Acquired ME105.D	09:09:39 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	09:09:40 06/24/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	09:23:05 06/24/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:25:54 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:02:54 06/24/2016
+G0,
+RMETHOD	Acquired PP512.D	10:02:56 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	10:02:57 06/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:20:47 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:57:47 06/24/2016
+G0,
+RMETHOD	Acquired RE396.D	10:57:48 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	10:57:49 06/24/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	11:09:26 06/24/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:10:55 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:47:55 06/24/2016
+G0,
+RMETHOD	Acquired MST088_B_ROH.D	11:47:56 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	11:47:56 06/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:23:01 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:00:01 06/24/2016
+G0,
+RMETHOD	Acquired CG2431.D	13:00:02 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	13:00:03 06/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:13:28 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:50:27 06/24/2016
+G0,
+RMETHOD	Acquired ME106.D	13:50:29 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	13:50:29 06/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:04:05 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:41:05 06/24/2016
+G0,
+RMETHOD	Acquired TGP1211.D	14:41:06 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	14:41:07 06/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:56:01 06/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:33:01 06/24/2016
+G0,
+RMETHOD	Acquired SR0891-3.D	15:33:02 06/24/2016
+G0,
+REMF	Pump Oil (Days) at 961, limit (90) has been	15:33:03 06/24/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	15:41:26 06/24/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	15:41:32 06/24/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:58:42 06/27/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:06:57 06/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:43:57 06/27/2016
+G0,
+RMETHOD	Acquired VP1501.D	09:43:59 06/27/2016
+G0,
+REMF	Pump Oil (Days) at 964, limit (90) has been	09:43:59 06/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:52:18 06/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:29:18 06/27/2016
+G0,
+RMETHOD	Acquired SR0892-1.D	13:29:19 06/27/2016
+G0,
+REMF	Pump Oil (Days) at 964, limit (90) has been	13:29:19 06/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:34:23 06/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:11:22 06/27/2016
+G0,
+RMETHOD	Acquired DA137.D	16:11:24 06/27/2016
+G0,
+REMF	Pump Oil (Days) at 964, limit (90) has been	16:11:24 06/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:48:29 06/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	18:25:29 06/27/2016
+G0,
+RMETHOD	Acquired MST099_B_ROH.D	18:25:30 06/27/2016
+G0,
+REMF	Pump Oil (Days) at 964, limit (90) has been	18:25:31 06/27/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:40:37 06/27/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:10:16 06/28/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:19:10 06/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	08:56:10 06/28/2016
+G0,
+RMETHOD	Acquired VP152.D	08:56:11 06/28/2016
+G0,
+REMF	Pump Oil (Days) at 965, limit (90) has been	08:56:12 06/28/2016
+R	reached and Notification given
+G0,
+RTUNE	 Autotune initiated.	09:39:55 06/28/2016
+G0,
+RTUNE	Setuser After  Wizard:	09:48:51 06/28/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:20:34 06/28/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:37:04 06/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	12:14:04 06/28/2016
+G0,
+RMETHOD	Acquired DA138.D	12:14:05 06/28/2016
+G0,
+REMF	Pump Oil (Days) at 965, limit (90) has been	12:14:05 06/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:11:58 06/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:48:58 06/28/2016
+G0,
+RMETHOD	Acquired RE397.D	13:48:59 06/28/2016
+G0,
+REMF	Pump Oil (Days) at 965, limit (90) has been	13:48:59 06/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:37:20 06/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.03	15:14:20 06/28/2016
+G0,
+RMETHOD	Acquired MST100_B.D	15:14:20 06/28/2016
+G0,
+REMF	Pump Oil (Days) at 965, limit (90) has been	15:14:21 06/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:03:41 06/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:40:41 06/28/2016
+G0,
+RMETHOD	Acquired SR0893-2.D	16:40:42 06/28/2016
+G0,
+REMF	Pump Oil (Days) at 965, limit (90) has been	16:40:43 06/28/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:44:26 06/28/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	07:52:53 06/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:15:59 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:52:59 06/29/2016
+G0,
+RMETHOD	Acquired SR0894-1.D	10:53:01 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	10:53:01 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:04:48 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:41:48 06/29/2016
+G0,
+RMETHOD	Acquired SR0893-1.D	11:41:49 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	11:41:49 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:56:03 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	12:33:03 06/29/2016
+G0,
+RMETHOD	Acquired SR0879SM.D	12:33:03 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	12:33:04 06/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	13:53:46 06/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:54:34 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:31:33 06/29/2016
+G0,
+RMETHOD	Acquired VP153.D	14:31:38 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	14:31:38 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:00:39 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:37:27 06/29/2016
+G0,
+RMETHOD	Acquired DA139.D	15:37:28 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	15:37:29 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:59:08 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:36:08 06/29/2016
+G0,
+RMETHOD	Acquired NT219.D	16:36:10 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	16:36:10 06/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:59:17 06/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:59:53 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:36:53 06/29/2016
+G0,
+RMETHOD	Acquired MST030_C.D	17:36:53 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	17:36:54 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:56:07 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:33:07 06/29/2016
+G0,
+RMETHOD	Acquired CG2451.D	18:33:11 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	18:33:11 06/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	19:34:51 06/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	20:11:51 06/29/2016
+G0,
+RMETHOD	Acquired NT220.D	20:11:51 06/29/2016
+G0,
+REMF	Pump Oil (Days) at 966, limit (90) has been	20:11:52 06/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	20:16:03 06/29/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	14:34:33 06/30/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:40:23 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:17:23 06/30/2016
+G0,
+RMETHOD	Acquired VP1532.D	15:17:25 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	15:17:26 06/30/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	15:22:43 06/30/2016
+G0,enhanced.chm
+RACQ5973	Run started	15:28:03 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:05:04 06/30/2016
+G0,
+RMETHOD	Acquired MST103_ROH.D	16:05:04 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	16:05:05 06/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:17:45 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:54:44 06/30/2016
+G0,
+RMETHOD	Acquired SR0894-2.D	16:54:46 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	16:54:46 06/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:04:42 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:41:42 06/30/2016
+G0,
+RMETHOD	Acquired NT221.D	17:41:43 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	17:41:44 06/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:58:18 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	18:35:17 06/30/2016
+G0,
+RMETHOD	Acquired NT222.D	18:35:22 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	18:35:22 06/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	18:48:05 06/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	19:25:05 06/30/2016
+G0,
+RMETHOD	Acquired NT223.D	19:25:06 06/30/2016
+G0,
+REMF	Pump Oil (Days) at 967, limit (90) has been	19:25:06 06/30/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	20:17:25 06/30/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	23:43:43 06/30/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	07:49:03 07/01/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	07:51:35 07/01/2016
+G0,
+RCHEMSTATION	Shutdown occurred.	07:51:39 07/01/2016
+G0,
+RCHEMSTATION	Startup initiated.	07:52:00 07/01/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	07:52:10 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	07:52:13 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	08:02:58 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	08:39:57 07/01/2016
+G0,
+RMETHOD	Acquired MST101_B_ROH.D	08:39:59 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	08:40:00 07/01/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	08:58:14 07/01/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:58:39 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:35:40 07/01/2016
+G0,
+RMETHOD	Acquired VP1511.D	09:35:40 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	09:35:41 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:54:39 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:31:39 07/01/2016
+G0,
+RMETHOD	Acquired TGP1221.D	10:31:40 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	10:31:40 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:59:23 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:36:23 07/01/2016
+G0,
+RMETHOD	Acquired TGP1231.D	11:36:24 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	11:36:25 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:49:20 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:26:20 07/01/2016
+G0,
+RMETHOD	Acquired SR0895-1.D	13:26:21 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	13:26:21 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:46:17 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:23:16 07/01/2016
+G0,
+RMETHOD	Acquired SR0896-1.D	14:23:18 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	14:23:19 07/01/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	15:55:35 07/01/2016
+G0,enhanced.chm
+RACQ5973	Run started	15:57:07 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:34:06 07/01/2016
+G0,
+RMETHOD	Acquired MST103_F1.D	16:34:07 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	16:34:08 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:45:44 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:22:43 07/01/2016
+G0,
+RMETHOD	Acquired TGP1251.D	17:22:45 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	17:22:46 07/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:33:41 07/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:10:41 07/01/2016
+G0,
+RMETHOD	Acquired MST104_ROH.D	18:10:43 07/01/2016
+G0,
+REMF	Pump Oil (Days) at 968, limit (90) has been	18:10:43 07/01/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:39:47 07/01/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:21:26 07/04/2016
+G0,
+RTUNE	 Autotune initiated.	08:22:57 07/04/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:29:55 07/04/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:34:16 07/04/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:50:18 07/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:27:18 07/04/2016
+G0,
+RMETHOD	Acquired DA140.D	10:27:19 07/04/2016
+G0,
+REMF	Pump Oil (Days) at 971, limit (90) has been	10:27:20 07/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:29:46 07/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:06:45 07/04/2016
+G0,
+RMETHOD	Acquired RE398.D	17:06:47 07/04/2016
+G0,
+REMF	Pump Oil (Days) at 971, limit (90) has been	17:06:48 07/04/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:16:49 07/04/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:25:25 07/05/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:31:27 07/05/2016
+G0,enhanced.chm
+RRUN CONTROL	No data acquired	08:34:28 07/05/2016
+G0,enhanced.chm
+RRUN CONTROL	No data acquired	08:34:29 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:08:27 07/05/2016
+G0,
+RMETHOD	Acquired DA140.D	09:08:29 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	09:08:29 07/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:48:05 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	10:25:05 07/05/2016
+G0,
+RMETHOD	Acquired VP0141.D	10:25:07 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	10:25:07 07/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:56:44 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:33:44 07/05/2016
+G0,
+RMETHOD	Acquired DA142.D	14:33:45 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	14:33:46 07/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:46:20 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:23:20 07/05/2016
+G0,
+RMETHOD	Acquired MST104_B_ROH.D	15:23:22 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	15:23:23 07/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:44:48 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:21:48 07/05/2016
+G0,
+RMETHOD	Acquired CG2461.D	16:21:49 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	16:21:49 07/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:31:41 07/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:08:41 07/05/2016
+G0,
+RMETHOD	Acquired SR0898-1.D	17:08:42 07/05/2016
+G0,
+REMF	Pump Oil (Days) at 972, limit (90) has been	17:08:42 07/05/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:13:14 07/05/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:15:53 07/06/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:22:37 07/06/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	08:59:36 07/06/2016
+G0,
+RMETHOD	Acquired VP1281.D	08:59:38 07/06/2016
+G0,
+REMF	Pump Oil (Days) at 973, limit (90) has been	08:59:39 07/06/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:01:28 07/06/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:38:28 07/06/2016
+G0,
+RMETHOD	Acquired ME107.D	11:38:30 07/06/2016
+G0,
+REMF	Pump Oil (Days) at 973, limit (90) has been	11:38:31 07/06/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:07:10 07/06/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:44:10 07/06/2016
+G0,
+RMETHOD	Acquired MST104_B.D	12:44:11 07/06/2016
+G0,
+REMF	Pump Oil (Days) at 973, limit (90) has been	12:44:11 07/06/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:31:44 07/06/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:08:44 07/06/2016
+G0,
+RMETHOD	Acquired SR0898-2.D	15:08:46 07/06/2016
+G0,
+REMF	Pump Oil (Days) at 973, limit (90) has been	15:08:46 07/06/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:46:09 07/06/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	19:00:31 07/06/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:11:52 07/07/2016
+G0,
+RCHEMSTATION	Shutdown occurred.	08:13:51 07/07/2016
+G0,
+RCHEMSTATION	Startup initiated.	08:14:14 07/07/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:14:26 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	08:14:29 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	08:20:06 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	08:57:06 07/07/2016
+G0,
+RMETHOD	Acquired CG2462.D	08:57:07 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	08:57:08 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:28:13 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:05:12 07/07/2016
+G0,
+RMETHOD	Acquired JC434.D	10:05:15 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	10:05:15 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:15:06 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	10:52:05 07/07/2016
+G0,
+RMETHOD	Acquired MST105_ROH.D	10:52:08 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	10:52:08 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:07:45 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:44:45 07/07/2016
+G0,
+RMETHOD	Acquired RE399.D	11:44:47 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	11:44:48 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:51:42 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:28:41 07/07/2016
+G0,
+RMETHOD	Acquired CG2471.D	15:28:43 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	15:28:44 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:39:36 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:16:36 07/07/2016
+G0,
+RMETHOD	Acquired ME108.D	16:16:38 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	16:16:39 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:34:20 07/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:11:20 07/07/2016
+G0,
+RMETHOD	Acquired SR0899-1.D	17:11:21 07/07/2016
+G0,
+REMF	Pump Oil (Days) at 974, limit (90) has been	17:11:22 07/07/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:05:02 07/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:42:02 07/08/2016
+G0,
+RMETHOD	Acquired JC435.D	09:42:04 07/08/2016
+G0,
+REMF	Pump Oil (Days) at 975, limit (90) has been	09:42:05 07/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:49:18 07/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:26:18 07/08/2016
+G0,
+RMETHOD	Acquired NT223.D	17:26:19 07/08/2016
+G0,
+REMF	Pump Oil (Days) at 975, limit (90) has been	17:26:19 07/08/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:35:33 07/08/2016
+G0,
+RTUNE	 Autotune initiated.	08:10:10 07/11/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:17:24 07/11/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	08:46:32 07/11/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:33:16 07/11/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:39:26 07/11/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	14:01:42 07/11/2016
+G0,hpmsd.hlp
+R6890	GC Not Responding, Check Cable/Power Switch	14:01:42 07/11/2016
+G0,
+RMETHOD	Run Error: GC Not Responding, Check Cable/Power	14:02:09 07/11/2016
+R	Switch
+G0,
+RCHEMSTATION	Shutdown occurred.	14:05:56 07/11/2016
+G0,
+RCHEMSTATION	Startup initiated.	14:06:14 07/11/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	14:06:26 07/11/2016
+G0,
+REMF	Pump Oil (Days) at 978, limit (90) has been	14:06:28 07/11/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	14:07:05 07/11/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:16:11 07/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:53:11 07/11/2016
+G0,
+RMETHOD	Acquired VP154.D	14:53:13 07/11/2016
+G0,
+REMF	Pump Oil (Days) at 978, limit (90) has been	14:53:14 07/11/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:07:57 07/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:44:57 07/11/2016
+G0,
+RMETHOD	Acquired DA143.D	15:45:02 07/11/2016
+G0,
+REMF	Pump Oil (Days) at 978, limit (90) has been	15:45:02 07/11/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:00:00 07/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:37:00 07/11/2016
+G0,
+RMETHOD	Acquired CG2482.D	16:37:01 07/11/2016
+G0,
+REMF	Pump Oil (Days) at 978, limit (90) has been	16:37:01 07/11/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:47:23 07/11/2016
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	17:15:12 07/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:15:12 07/11/2016
+G0,
+RMETHOD	Acquired CG2483.D	17:15:14 07/11/2016
+G0,
+REMF	Pump Oil (Days) at 978, limit (90) has been	17:15:16 07/11/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:15:22 07/11/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:23:37 07/12/2016
+G0,enhanced.chm
+RACQ5973	Run started	12:52:16 07/12/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:29:16 07/12/2016
+G0,
+RMETHOD	Acquired TGP1261.D	13:29:16 07/12/2016
+G0,
+REMF	Pump Oil (Days) at 979, limit (90) has been	13:29:17 07/12/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:07:40 07/13/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:44:40 07/13/2016
+G0,
+RMETHOD	Acquired RE400.D	11:44:40 07/13/2016
+G0,
+REMF	Pump Oil (Days) at 980, limit (90) has been	11:44:41 07/13/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:24:50 07/13/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:01:49 07/13/2016
+G0,
+RMETHOD	Acquired MST105_F3.D	16:01:50 07/13/2016
+G0,
+REMF	Pump Oil (Days) at 980, limit (90) has been	16:01:51 07/13/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:11:45 07/13/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:48:44 07/13/2016
+G0,
+RMETHOD	Acquired MST105_F3.D	16:48:45 07/13/2016
+G0,
+REMF	Pump Oil (Days) at 980, limit (90) has been	16:48:46 07/13/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:59:38 07/13/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:36:38 07/13/2016
+G0,
+RMETHOD	Acquired MST105_F2.D	17:36:40 07/13/2016
+G0,
+REMF	Pump Oil (Days) at 980, limit (90) has been	17:36:40 07/13/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	21:55:06 07/13/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	12:23:06 07/14/2016
+G0,enhanced.chm
+RACQ5973	Run started	12:30:34 07/14/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.03	13:07:34 07/14/2016
+G0,
+RMETHOD	Acquired ME109.D	13:07:35 07/14/2016
+G0,
+REMF	Pump Oil (Days) at 981, limit (90) has been	13:07:36 07/14/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	15:44:46 07/14/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	15:48:35 07/14/2016
+G0,enhanced.chm
+RACQ5973	Run started	15:56:06 07/14/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:33:06 07/14/2016
+G0,
+RMETHOD	Acquired VP157.D	16:33:07 07/14/2016
+G0,
+REMF	Pump Oil (Days) at 981, limit (90) has been	16:33:07 07/14/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:13:51 07/14/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:50:52 07/14/2016
+G0,
+RMETHOD	Acquired MST106_ROH.D	17:50:52 07/14/2016
+G0,
+REMF	Pump Oil (Days) at 981, limit (90) has been	17:50:53 07/14/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	20:11:01 07/14/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	14:00:06 07/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:16:52 07/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:53:52 07/15/2016
+G0,
+RMETHOD	Acquired ME110.D	14:53:53 07/15/2016
+G0,
+REMF	Pump Oil (Days) at 982, limit (90) has been	14:53:54 07/15/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:11:16 07/15/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	07:49:01 07/18/2016
+G0,enhanced.chm
+RACQ5973	Run started	07:54:43 07/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	08:31:42 07/18/2016
+G0,
+RMETHOD	Acquired VP1571.D	08:31:43 07/18/2016
+G0,
+REMF	Pump Oil (Days) at 985, limit (90) has been	08:31:44 07/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:22:13 07/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:59:13 07/18/2016
+G0,
+RMETHOD	Acquired TGP1281.D	10:59:14 07/18/2016
+G0,
+REMF	Pump Oil (Days) at 985, limit (90) has been	10:59:15 07/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:33:42 07/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:10:42 07/18/2016
+G0,
+RMETHOD	Acquired TGP1291.D	15:10:44 07/18/2016
+G0,
+REMF	Pump Oil (Days) at 985, limit (90) has been	15:10:45 07/18/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:57:32 07/18/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD8.M	10:16:09 07/20/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	11:11:27 07/20/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:22:57 07/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:59:56 07/20/2016
+G0,
+RMETHOD	Acquired RE401.D	11:59:58 07/20/2016
+G0,
+REMF	Pump Oil (Days) at 987, limit (90) has been	11:59:59 07/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:39:23 07/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:16:22 07/20/2016
+G0,
+RMETHOD	Acquired ME111.D	15:16:24 07/20/2016
+G0,
+REMF	Pump Oil (Days) at 987, limit (90) has been	15:16:24 07/20/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:26:42 07/20/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:03:41 07/20/2016
+G0,
+RMETHOD	Acquired ME112.D	16:03:42 07/20/2016
+G0,
+REMF	Pump Oil (Days) at 987, limit (90) has been	16:03:43 07/20/2016
+R	reached and Notification given
+G0,
+RTUNE	 Autotune initiated.	08:41:23 07/21/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:48:57 07/21/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:05:13 07/21/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:15:22 07/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:52:22 07/21/2016
+G0,
+RMETHOD	Acquired MST104_C_ROH.D	16:52:24 07/21/2016
+G0,
+REMF	Pump Oil (Days) at 988, limit (90) has been	16:52:25 07/21/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:05:34 07/21/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:42:34 07/21/2016
+G0,
+RMETHOD	Acquired NT224.D	17:42:35 07/21/2016
+G0,
+REMF	Pump Oil (Days) at 988, limit (90) has been	17:42:35 07/21/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:09:17 07/21/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:29:50 07/22/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:05:33 07/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:42:32 07/22/2016
+G0,
+RMETHOD	Acquired RE402.D	11:42:34 07/22/2016
+G0,
+REMF	Pump Oil (Days) at 989, limit (90) has been	11:42:35 07/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:45:39 07/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:22:39 07/22/2016
+G0,
+RMETHOD	Acquired MST104_C.D	15:22:40 07/22/2016
+G0,
+REMF	Pump Oil (Days) at 989, limit (90) has been	15:22:41 07/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:00:15 07/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:37:15 07/22/2016
+G0,
+RMETHOD	Acquired NT225.D	16:37:15 07/22/2016
+G0,
+REMF	Pump Oil (Days) at 989, limit (90) has been	16:37:16 07/22/2016
+R	reached and Notification given
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	16:40:54 07/22/2016
+G0,
+RCHEMSTATION	Shutdown occurred.	16:45:59 07/22/2016
+G0,
+RCHEMSTATION	Startup initiated.	16:47:18 07/22/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:47:28 07/22/2016
+G0,
+REMF	Pump Oil (Days) at 989, limit (90) has been	16:47:31 07/22/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:54:00 07/22/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:55:51 07/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:32:51 07/22/2016
+G0,
+RMETHOD	Acquired TH001P.D	17:32:54 07/22/2016
+G0,
+REMF	Pump Oil (Days) at 989, limit (90) has been	17:32:54 07/22/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:55:17 07/22/2016
+G0,enhanced.chm
+RACQ5973	No response, cannot bring MS on line (possible	17:58:59 07/22/2016
+R	bad address or existing lock) [error -200]
+G0,
+RCHEMSTATION	Startup initiated after unexpected shutdown.	11:38:15 07/25/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	11:38:44 07/25/2016
+G0,
+REMF	Pump Oil (Days) at 992, limit (90) has been	11:38:50 07/25/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	11:39:02 07/25/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:45:32 07/25/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:22:32 07/25/2016
+G0,
+RMETHOD	Acquired TH002.D	12:22:33 07/25/2016
+G0,
+REMF	Pump Oil (Days) at 992, limit (90) has been	12:22:34 07/25/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:57:19 07/25/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:34:20 07/25/2016
+G0,
+RMETHOD	Acquired VP1421.D	16:34:20 07/25/2016
+G0,
+REMF	Pump Oil (Days) at 992, limit (90) has been	16:34:21 07/25/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:04:00 07/25/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:41:00 07/25/2016
+G0,
+RMETHOD	Acquired MST101_B.D	17:41:01 07/25/2016
+G0,
+REMF	Pump Oil (Days) at 992, limit (90) has been	17:41:02 07/25/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:14:01 07/25/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:46:55 07/26/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:02:32 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:39:32 07/26/2016
+G0,
+RMETHOD	Acquired JC436.D	10:39:33 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	10:39:33 07/26/2016
+R	reached and Notification given
+G0,
+RTUNE	 Autotune initiated.	13:40:49 07/26/2016
+G0,
+RTUNE	Setuser After  Wizard:	13:48:01 07/26/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:55:16 07/26/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:21:42 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:58:42 07/26/2016
+G0,
+RMETHOD	Acquired MST108_ROH.D	14:58:44 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	14:58:45 07/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:13:45 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:50:44 07/26/2016
+G0,
+RMETHOD	Acquired VP158.D	15:50:45 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	15:50:46 07/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:01:00 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:38:00 07/26/2016
+G0,
+RMETHOD	Acquired PP512P.D	16:38:01 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	16:38:03 07/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	16:56:13 07/26/2016
+G0,
+RMETHOD	Acquired TGP130.D	16:56:14 07/26/2016
+G0,
+RMETHOD	Run Error: Neither GC nor MS data collected;	16:56:15 07/26/2016
+R	Consult Logbook
+G0,enhanced.chm
+RACQ5973	Run started	16:56:44 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:33:44 07/26/2016
+G0,
+RMETHOD	Acquired TGP1301.D	17:33:46 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	17:33:47 07/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:53:58 07/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:30:57 07/26/2016
+G0,
+RMETHOD	Acquired JC437.D	18:30:59 07/26/2016
+G0,
+REMF	Pump Oil (Days) at 993, limit (90) has been	18:31:00 07/26/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:07:58 07/26/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:56:03 07/27/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:04:34 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	09:41:34 07/27/2016
+G0,
+RMETHOD	Acquired JC438.D	09:41:35 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	09:41:36 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:32:24 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:09:23 07/27/2016
+G0,
+RMETHOD	Acquired PP512M.D	11:09:24 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	11:09:25 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:36:18 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	12:13:18 07/27/2016
+G0,
+RMETHOD	Acquired LZ148.D	12:13:19 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	12:13:20 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:27:50 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:04:51 07/27/2016
+G0,
+RMETHOD	Acquired TGP1321.D	13:04:51 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	13:04:52 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:22:14 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:59:14 07/27/2016
+G0,
+RMETHOD	Acquired JC439.D	13:59:16 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	13:59:17 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:27:30 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:04:30 07/27/2016
+G0,
+RMETHOD	Acquired TH003.D	15:04:32 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	15:04:32 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:31:58 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	18:08:58 07/27/2016
+G0,
+RMETHOD	Acquired JC440.D	18:09:03 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	18:09:03 07/27/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	19:12:00 07/27/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	19:49:00 07/27/2016
+G0,
+RMETHOD	Acquired LZ149.D	19:49:02 07/27/2016
+G0,
+REMF	Pump Oil (Days) at 994, limit (90) has been	19:49:02 07/27/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	20:54:33 07/27/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:22:04 07/28/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:32:40 07/28/2016
+G0,hpmsd.hlp
+R6890	I/O error with 6890 GC	09:00:00 07/28/2016
+G0,hpmsd.hlp
+R6890	GC Not Responding, Check Cable/Power Switch	09:00:00 07/28/2016
+G0,
+RMETHOD	Run Error: GC Not Responding, Check Cable/Power	09:00:23 07/28/2016
+R	Switch
+G0,
+RCHEMSTATION	Shutdown occurred.	09:02:13 07/28/2016
+G0,
+RCHEMSTATION	Startup initiated.	09:02:30 07/28/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:02:41 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	09:02:43 07/28/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:02:59 07/28/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:29:22 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:06:23 07/28/2016
+G0,
+RMETHOD	Acquired MST110_ROH.D	10:06:24 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	10:06:24 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:26:02 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:03:02 07/28/2016
+G0,
+RMETHOD	Acquired JC441.D	11:03:03 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	11:03:03 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:26:47 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:03:47 07/28/2016
+G0,
+RMETHOD	Acquired RE403.D	12:03:49 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	12:03:50 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:17:11 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:54:11 07/28/2016
+G0,
+RMETHOD	Acquired JC442.D	12:54:12 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	12:54:13 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:08:34 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:45:34 07/28/2016
+G0,
+RMETHOD	Acquired LZ150.D	14:45:35 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	14:45:35 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:04:33 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:41:33 07/28/2016
+G0,
+RMETHOD	Acquired JC443.D	15:41:37 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	15:41:38 07/28/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:22:11 07/28/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:59:11 07/28/2016
+G0,
+RMETHOD	Acquired TGP1331.D	16:59:11 07/28/2016
+G0,
+REMF	Pump Oil (Days) at 995, limit (90) has been	16:59:12 07/28/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:44:17 07/28/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:32:49 07/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:22:36 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:59:36 07/29/2016
+G0,
+RMETHOD	Acquired RE404.D	10:59:37 07/29/2016
+G0,
+REMF	Pump Oil (Days) at 996, limit (90) has been	10:59:38 07/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:14:08 07/29/2016
+G0,enhanced.chm
+RACQ5973	1101,"({MON} ):  Mass spec fault:  16384"	11:47:06 07/29/2016
+G0,enhanced.chm
+RACQ5973	The system is in STANDBY at runtime 32.97	11:47:06 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:51:08 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inlet flow 22.3 at runtime 30.87	11:51:08 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inl pres 25.9 psi at runtime 32.86	11:51:08 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Oven temp 320 at runtime 32.86	11:51:08 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:F inlet temp 250 at runtime 32.86	11:51:08 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Aux 1 temp 300 at runtime 32.86	11:51:08 07/29/2016
+G0,
+RMETHOD	Run Error: Instrument error, refer to Logbook	11:51:09 07/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:46:37 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	14:23:37 07/29/2016
+G0,
+RMETHOD	Acquired LZ151.D	14:23:38 07/29/2016
+G0,
+REMF	Pump Oil (Days) at 996, limit (90) has been	14:23:39 07/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:13:58 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:50:58 07/29/2016
+G0,
+RMETHOD	Acquired JC444.D	15:50:59 07/29/2016
+G0,
+REMF	Pump Oil (Days) at 996, limit (90) has been	15:50:59 07/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:06:03 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:43:03 07/29/2016
+G0,
+RMETHOD	Acquired TGP1333.D	16:43:05 07/29/2016
+G0,
+REMF	Pump Oil (Days) at 996, limit (90) has been	16:43:06 07/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:53:38 07/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:30:38 07/29/2016
+G0,
+RMETHOD	Acquired NT226.D	17:30:39 07/29/2016
+G0,
+REMF	Pump Oil (Days) at 996, limit (90) has been	17:30:39 07/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:58:44 07/29/2016
+G0,
+RTUNE	 Autotune initiated.	08:29:25 08/01/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:37:21 08/01/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	09:35:26 08/01/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:30:53 08/01/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:40:35 08/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:17:35 08/01/2016
+G0,
+RMETHOD	Acquired CGP0111.D	14:17:36 08/01/2016
+G0,
+REMF	Pump Oil (Days) at 999, limit (90) has been	14:17:37 08/01/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:47:11 08/01/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:24:11 08/01/2016
+G0,
+RMETHOD	Acquired CGP0112.D	16:24:11 08/01/2016
+G0,
+REMF	Pump Oil (Days) at 999, limit (90) has been	16:24:12 08/01/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:11:24 08/01/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:29:17 08/02/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:35:13 08/02/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:12:13 08/02/2016
+G0,
+RMETHOD	Acquired JC445.D	14:12:14 08/02/2016
+G0,
+REMF	Pump Oil (Days) at 1000, limit (90) has been	14:12:15 08/02/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:36:52 08/02/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:13:52 08/02/2016
+G0,
+RMETHOD	Acquired CGP0113.D	15:13:53 08/02/2016
+G0,
+REMF	Pump Oil (Days) at 1000, limit (90) has been	15:13:54 08/02/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:39:05 08/02/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:16:05 08/02/2016
+G0,
+RMETHOD	Acquired LZ152.D	16:16:09 08/02/2016
+G0,
+REMF	Pump Oil (Days) at 1000, limit (90) has been	16:16:10 08/02/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:25:48 08/02/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:02:48 08/02/2016
+G0,
+RMETHOD	Acquired VP159.D	17:02:48 08/02/2016
+G0,
+REMF	Pump Oil (Days) at 1000, limit (90) has been	17:02:49 08/02/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:10:04 08/02/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:27:48 08/03/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:33:35 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	09:10:35 08/03/2016
+G0,
+RMETHOD	Acquired TH004.D	09:10:36 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	09:10:36 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:20:27 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:57:27 08/03/2016
+G0,
+RMETHOD	Acquired TH005.D	09:57:27 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	09:57:28 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:43:36 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:20:36 08/03/2016
+G0,
+RMETHOD	Acquired VP158.D	11:20:37 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	11:20:38 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:45:41 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:22:41 08/03/2016
+G0,
+RMETHOD	Acquired CGP0121.D	14:22:42 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	14:22:43 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:47:59 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:24:59 08/03/2016
+G0,
+RMETHOD	Acquired TH006.D	15:25:00 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	15:25:01 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:34:48 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:11:35 08/03/2016
+G0,
+RMETHOD	Acquired MST110_RF032.D	16:11:36 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	16:11:37 08/03/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:21:41 08/03/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:58:41 08/03/2016
+G0,
+RMETHOD	Acquired VP1431.D	16:58:43 08/03/2016
+G0,
+REMF	Pump Oil (Days) at 1001, limit (90) has been	16:58:44 08/03/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:41:03 08/03/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:01:24 08/04/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:08:33 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	08:45:33 08/04/2016
+G0,
+RMETHOD	Acquired CGP0122.D	08:45:35 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	08:45:36 08/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	08:56:57 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:33:57 08/04/2016
+G0,
+RMETHOD	Acquired MST111_ROH.D	09:33:59 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	09:34:00 08/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:55:30 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:32:30 08/04/2016
+G0,
+RMETHOD	Acquired TH006.D	10:32:31 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	10:32:32 08/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:26:55 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:03:54 08/04/2016
+G0,
+RMETHOD	Acquired MST110_KIRSTALISATION_FESTSTOFF.D	14:03:55 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	14:03:56 08/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:15:39 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:52:39 08/04/2016
+G0,
+RMETHOD	Acquired RE405.D	14:52:43 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	14:52:44 08/04/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	18:16:58 08/04/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	18:53:58 08/04/2016
+G0,
+RMETHOD	Acquired NT226.D	18:54:00 08/04/2016
+G0,
+REMF	Pump Oil (Days) at 1002, limit (90) has been	18:54:00 08/04/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:56:40 08/04/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	12:57:37 08/05/2016
+G0,enhanced.chm
+RACQ5973	Run started	13:29:19 08/05/2016
+G0,enhanced.chm
+RACQ5973	Overrode solvent delay at runtime 1.89	13:31:13 08/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:06:19 08/05/2016
+G0,
+RMETHOD	Acquired SR1004-1.D	14:06:21 08/05/2016
+G0,
+REMF	Pump Oil (Days) at 1003, limit (90) has been	14:06:22 08/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:11:40 08/05/2016
+G0,enhanced.chm
+RACQ5973	Overrode solvent delay at runtime 2.05	15:13:44 08/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:48:40 08/05/2016
+G0,
+RMETHOD	Acquired SR1005-1.D	15:48:41 08/05/2016
+G0,
+REMF	Pump Oil (Days) at 1003, limit (90) has been	15:48:42 08/05/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:00:08 08/05/2016
+G0,enhanced.chm
+RACQ5973	Overrode solvent delay at runtime 2.01	16:02:09 08/05/2016
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	16:33:11 08/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:33:11 08/05/2016
+G0,
+RMETHOD	Acquired SR1006-1.D	16:33:12 08/05/2016
+G0,
+REMF	Pump Oil (Days) at 1003, limit (90) has been	16:33:13 08/05/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:33:21 08/05/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:51:04 08/05/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:57:49 08/05/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:34:49 08/05/2016
+G0,
+RMETHOD	Acquired PP513.D	17:34:50 08/05/2016
+G0,
+REMF	Pump Oil (Days) at 1003, limit (90) has been	17:34:51 08/05/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:11:00 08/05/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	12:06:02 08/07/2016
+G0,enhanced.chm
+RACQ5973	Run started	12:40:02 08/07/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:17:02 08/07/2016
+G0,
+RMETHOD	Acquired PP514.D	13:17:03 08/07/2016
+G0,
+REMF	Pump Oil (Days) at 1005, limit (90) has been	13:17:04 08/07/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:52:14 08/07/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:16:41 08/08/2016
+G0,
+RTUNE	 Autotune initiated.	08:19:42 08/08/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:25:58 08/08/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:26:29 08/08/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:28:53 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:05:53 08/08/2016
+G0,
+RMETHOD	Acquired ME113.D	09:05:54 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	09:05:55 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:46:36 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:23:36 08/08/2016
+G0,
+RMETHOD	Acquired PP514P.D	10:23:38 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	10:23:39 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:33:41 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:10:41 08/08/2016
+G0,
+RMETHOD	Acquired MST112.D	11:10:42 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	11:10:42 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:25:22 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:02:22 08/08/2016
+G0,
+RMETHOD	Acquired SR1005-2.D	12:02:23 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	12:02:23 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:51:54 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:28:53 08/08/2016
+G0,
+RMETHOD	Acquired PP513P.D	13:28:54 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	13:28:55 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:45:52 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:22:52 08/08/2016
+G0,
+RMETHOD	Acquired CGP0131.D	14:22:52 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	14:22:53 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:35:56 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:12:56 08/08/2016
+G0,
+RMETHOD	Acquired MST112_ROH_2.D	15:12:58 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	15:12:59 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:40:54 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:17:54 08/08/2016
+G0,
+RMETHOD	Acquired TH008.D	16:17:56 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	16:17:56 08/08/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:27:56 08/08/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:04:56 08/08/2016
+G0,
+RMETHOD	Acquired MST112_FILTRAT.D	17:04:57 08/08/2016
+G0,
+REMF	Pump Oil (Days) at 1006, limit (90) has been	17:04:57 08/08/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:56:54 08/08/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:28:39 08/09/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:37:42 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:14:42 08/09/2016
+G0,
+RMETHOD	Acquired PP514M.D	11:14:43 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	11:14:44 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:02:08 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:39:08 08/09/2016
+G0,
+RMETHOD	Acquired MST112_B_ROH.D	12:39:10 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	12:39:11 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:13:21 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:50:20 08/09/2016
+G0,
+RMETHOD	Acquired TH009.D	13:50:22 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	13:50:23 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:06:17 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:43:17 08/09/2016
+G0,
+RMETHOD	Acquired CG2511.D	14:43:18 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	14:43:19 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:53:36 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:30:36 08/09/2016
+G0,
+RMETHOD	Acquired PP514M1.D	15:30:37 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	15:30:38 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:42:53 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:19:57 08/09/2016
+G0,
+RMETHOD	Acquired VP160.D	16:20:00 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	16:20:01 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:35:28 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:12:28 08/09/2016
+G0,
+RMETHOD	Acquired TGP1334.D	17:12:30 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	17:12:31 08/09/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:22:48 08/09/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:59:48 08/09/2016
+G0,
+RMETHOD	Acquired TH010.D	17:59:50 08/09/2016
+G0,
+REMF	Pump Oil (Days) at 1007, limit (90) has been	17:59:50 08/09/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:09:51 08/09/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:17:56 08/10/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:30:06 08/10/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:07:06 08/10/2016
+G0,
+RMETHOD	Acquired RE406.D	11:07:06 08/10/2016
+G0,
+REMF	Pump Oil (Days) at 1008, limit (90) has been	11:07:07 08/10/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:40:21 08/10/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:17:21 08/10/2016
+G0,
+RMETHOD	Acquired TH011.D	12:17:22 08/10/2016
+G0,
+REMF	Pump Oil (Days) at 1008, limit (90) has been	12:17:23 08/10/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:26:38 08/10/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:03:38 08/10/2016
+G0,
+RMETHOD	Acquired NT227.D	13:03:39 08/10/2016
+G0,
+REMF	Pump Oil (Days) at 1008, limit (90) has been	13:03:39 08/10/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:52:31 08/10/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:29:31 08/10/2016
+G0,
+RMETHOD	Acquired VP1601.D	15:29:32 08/10/2016
+G0,
+REMF	Pump Oil (Days) at 1008, limit (90) has been	15:29:32 08/10/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:42:03 08/10/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:19:02 08/10/2016
+G0,
+RMETHOD	Acquired TGP1341.D	16:19:04 08/10/2016
+G0,
+REMF	Pump Oil (Days) at 1008, limit (90) has been	16:19:05 08/10/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:37:10 08/10/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	09:27:08 08/11/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:13:12 08/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	10:50:12 08/11/2016
+G0,
+RMETHOD	Acquired NT228.D	10:50:13 08/11/2016
+G0,
+REMF	Pump Oil (Days) at 1009, limit (90) has been	10:50:13 08/11/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:56:36 08/11/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:07:15 08/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:44:14 08/11/2016
+G0,
+RMETHOD	Acquired MST113_ROH.D	14:44:16 08/11/2016
+G0,
+REMF	Pump Oil (Days) at 1009, limit (90) has been	14:44:17 08/11/2016
+R	reached and Notification given
+G0,
+RTUNE	 Autotune initiated.	14:58:15 08/11/2016
+G0,
+RTUNE	Setuser After  Wizard:	15:06:15 08/11/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	16:14:59 08/11/2016
+G0,enhanced.chm
+RACQ5973	Run started	16:19:05 08/11/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:56:05 08/11/2016
+G0,
+RMETHOD	Acquired VP1602.D	16:56:06 08/11/2016
+G0,
+REMF	Pump Oil (Days) at 1009, limit (90) has been	16:56:06 08/11/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:55:54 08/11/2016
+G0,
+RTUNE	 Autotune initiated.	12:21:14 08/12/2016
+G0,
+RTUNE	Setuser After  Wizard:	12:32:11 08/12/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	13:58:47 08/12/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	13:59:00 08/12/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:04:40 08/12/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:41:40 08/12/2016
+G0,
+RMETHOD	Acquired VP1603.D	14:41:42 08/12/2016
+G0,
+REMF	Pump Oil (Days) at 1010, limit (90) has been	14:41:43 08/12/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:51:10 08/12/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.02	15:28:10 08/12/2016
+G0,
+RMETHOD	Acquired SR1005-3.D	15:28:11 08/12/2016
+G0,
+REMF	Pump Oil (Days) at 1010, limit (90) has been	15:28:12 08/12/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:08:21 08/12/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:28:30 08/15/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:49:45 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	09:26:45 08/15/2016
+G0,
+RMETHOD	Acquired MST114_ROH.D	09:26:46 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	09:26:46 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:06:08 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:43:08 08/15/2016
+G0,
+RMETHOD	Acquired MST115_ROH.D	10:43:09 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	10:43:09 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:52:27 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:29:27 08/15/2016
+G0,
+RMETHOD	Acquired SR1005-4.D	13:29:28 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	13:29:29 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:39:00 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:16:00 08/15/2016
+G0,
+RMETHOD	Acquired TH012.D	14:16:00 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	14:16:01 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:46:00 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:23:00 08/15/2016
+G0,
+RMETHOD	Acquired VP161.D	15:23:02 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	15:23:02 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:32:29 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:09:29 08/15/2016
+G0,
+RMETHOD	Acquired SR1006-2.D	16:09:29 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	16:09:30 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:19:51 08/15/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:56:51 08/15/2016
+G0,
+RMETHOD	Acquired TH013.D	16:56:52 08/15/2016
+G0,
+REMF	Pump Oil (Days) at 1013, limit (90) has been	16:56:53 08/15/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:00:47 08/16/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:37:47 08/16/2016
+G0,
+RMETHOD	Acquired RE407.D	14:37:49 08/16/2016
+G0,
+REMF	Pump Oil (Days) at 1014, limit (90) has been	14:37:50 08/16/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:03:04 08/16/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:40:04 08/16/2016
+G0,
+RMETHOD	Acquired VP1611.D	16:40:05 08/16/2016
+G0,
+REMF	Pump Oil (Days) at 1014, limit (90) has been	16:40:06 08/16/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:55:08 08/16/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:41:04 08/17/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:02:38 08/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	10:39:38 08/17/2016
+G0,
+RMETHOD	Acquired RE408.D	10:39:43 08/17/2016
+G0,
+REMF	Pump Oil (Days) at 1015, limit (90) has been	10:39:43 08/17/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:44:55 08/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:21:55 08/17/2016
+G0,
+RMETHOD	Acquired RE409.D	14:21:57 08/17/2016
+G0,
+REMF	Pump Oil (Days) at 1015, limit (90) has been	14:21:57 08/17/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:33:30 08/17/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:10:29 08/17/2016
+G0,
+RMETHOD	Acquired TGP1351.D	17:10:30 08/17/2016
+G0,
+REMF	Pump Oil (Days) at 1015, limit (90) has been	17:10:31 08/17/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:20:34 08/17/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:31:05 08/18/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:43:05 08/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:20:05 08/18/2016
+G0,
+RMETHOD	Acquired RE410.D	09:20:06 08/18/2016
+G0,
+REMF	Pump Oil (Days) at 1016, limit (90) has been	09:20:07 08/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	09:32:52 08/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:09:51 08/18/2016
+G0,
+RMETHOD	Acquired TGP1352.D	10:09:52 08/18/2016
+G0,
+REMF	Pump Oil (Days) at 1016, limit (90) has been	10:09:53 08/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:31:37 08/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:08:36 08/18/2016
+G0,
+RMETHOD	Acquired MST117.D	12:08:37 08/18/2016
+G0,
+REMF	Pump Oil (Days) at 1016, limit (90) has been	12:08:38 08/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:58:25 08/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:35:25 08/18/2016
+G0,
+RMETHOD	Acquired TH014.D	14:35:27 08/18/2016
+G0,
+REMF	Pump Oil (Days) at 1016, limit (90) has been	14:35:28 08/18/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:49:36 08/18/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:26:36 08/18/2016
+G0,
+RMETHOD	Acquired TH015.D	15:26:38 08/18/2016
+G0,
+REMF	Pump Oil (Days) at 1016, limit (90) has been	15:26:39 08/18/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	15:53:24 08/18/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:20:58 08/19/2016
+G0,enhanced.chm
+RACQ5973	Run started	14:13:04 08/19/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:50:03 08/19/2016
+G0,
+RMETHOD	Acquired VP162.D	14:50:04 08/19/2016
+G0,
+REMF	Pump Oil (Days) at 1017, limit (90) has been	14:50:05 08/19/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:05:58 08/19/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:42:58 08/19/2016
+G0,
+RMETHOD	Acquired MST119_ROH.D	15:42:59 08/19/2016
+G0,
+REMF	Pump Oil (Days) at 1017, limit (90) has been	15:43:00 08/19/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:24:52 08/19/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:53:56 08/22/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:27:14 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	10:04:13 08/22/2016
+G0,
+RMETHOD	Acquired PP001M.D	10:04:14 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	10:04:15 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:37:59 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:14:59 08/22/2016
+G0,
+RMETHOD	Run Error: Could not rename file:	11:15:00 08/22/2016
+R	D:\MSD_DATA\PP002M.D\TEMPDAT
+G0,enhanced.chm
+RACQ5973	Run started	11:39:05 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:16:06 08/22/2016
+G0,
+RMETHOD	Acquired PP003M.D	12:16:06 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	12:16:07 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:22:11 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:59:12 08/22/2016
+G0,
+RMETHOD	Acquired PP004M.D	13:59:12 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	13:59:12 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:08:54 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:45:54 08/22/2016
+G0,
+RMETHOD	Acquired VP1621.D	14:45:56 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	14:45:56 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:02:43 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:39:44 08/22/2016
+G0,
+RMETHOD	Acquired PP005M.D	15:39:44 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	15:39:45 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:51:21 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	16:28:21 08/22/2016
+G0,
+RMETHOD	Acquired MST119.D	16:28:22 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	16:28:23 08/22/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:39:42 08/22/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:16:41 08/22/2016
+G0,
+RMETHOD	Acquired PP002M.D	17:16:43 08/22/2016
+G0,
+REMF	Pump Oil (Days) at 1020, limit (90) has been	17:16:44 08/22/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	19:55:37 08/22/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	08:44:43 08/23/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:44:48 08/23/2016
+G0,enhanced.chm
+RACQ5973	Run started	08:50:19 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	09:27:19 08/23/2016
+G0,
+RMETHOD	Acquired RE411.D	09:27:20 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	09:27:20 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:03:54 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:40:54 08/23/2016
+G0,
+RMETHOD	Acquired DA144.D	11:40:55 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	11:40:56 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:15:34 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:52:33 08/23/2016
+G0,
+RMETHOD	Acquired VP163.D	13:52:38 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	13:52:38 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:08:52 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:45:52 08/23/2016
+G0,
+RMETHOD	Acquired PP001MR.D	14:45:53 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	14:45:54 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:56:07 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:33:07 08/23/2016
+G0,
+RMETHOD	Acquired PP002MR.D	15:33:08 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	15:33:08 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:49:01 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:26:01 08/23/2016
+G0,
+RMETHOD	Acquired VP1631.D	16:26:03 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	16:26:04 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:37:33 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:14:33 08/23/2016
+G0,
+RMETHOD	Acquired TGP1361.D	17:14:37 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	17:14:38 08/23/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:24:53 08/23/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	18:01:53 08/23/2016
+G0,
+RMETHOD	Acquired TH016.D	18:01:54 08/23/2016
+G0,
+REMF	Pump Oil (Days) at 1021, limit (90) has been	18:01:54 08/23/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	18:04:56 08/23/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:05:43 08/24/2016
+G0,enhanced.chm
+RACQ5973	Run started	10:15:48 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:52:48 08/24/2016
+G0,
+RMETHOD	Acquired PP003MR.D	10:52:51 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	10:52:51 08/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:02:25 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:39:25 08/24/2016
+G0,
+RMETHOD	Acquired VP1632.D	11:39:27 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	11:39:28 08/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:44:24 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:21:24 08/24/2016
+G0,
+RMETHOD	Acquired TH017.D	13:21:25 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	13:21:25 08/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:36:24 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:13:24 08/24/2016
+G0,
+RMETHOD	Acquired RE412.D	14:13:26 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	14:13:27 08/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:27:18 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:04:18 08/24/2016
+G0,
+RMETHOD	Acquired PP004MR.D	15:04:18 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	15:04:19 08/24/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:15:57 08/24/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:52:56 08/24/2016
+G0,
+RMETHOD	Acquired PP005MR.D	15:52:57 08/24/2016
+G0,
+REMF	Pump Oil (Days) at 1022, limit (90) has been	15:52:58 08/24/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	17:47:20 08/24/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	08:28:10 08/25/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:43:49 08/25/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	12:20:50 08/25/2016
+G0,
+RMETHOD	Acquired MST120.D	12:20:50 08/25/2016
+G0,
+REMF	Pump Oil (Days) at 1023, limit (90) has been	12:20:51 08/25/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:37:58 08/25/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:14:58 08/25/2016
+G0,
+RMETHOD	Acquired RE413.D	15:14:59 08/25/2016
+G0,
+REMF	Pump Oil (Days) at 1023, limit (90) has been	15:15:00 08/25/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	16:13:56 08/25/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:10:13 08/26/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:51:10 08/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:28:10 08/26/2016
+G0,
+RMETHOD	Acquired NT229.D	10:28:13 08/26/2016
+G0,
+REMF	Pump Oil (Days) at 1024, limit (90) has been	10:28:13 08/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:15:58 08/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:52:59 08/26/2016
+G0,
+RMETHOD	Acquired VP1382.D	13:52:59 08/26/2016
+G0,
+REMF	Pump Oil (Days) at 1024, limit (90) has been	13:53:00 08/26/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:06:10 08/26/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:43:10 08/26/2016
+G0,
+RMETHOD	Acquired MST121_ROH.D	14:43:11 08/26/2016
+G0,
+REMF	Pump Oil (Days) at 1024, limit (90) has been	14:43:11 08/26/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	15:38:01 08/26/2016
+G0,
+RTUNE	 Autotune initiated.	08:17:05 08/29/2016
+G0,
+RTUNE	Setuser After  Wizard:	08:25:15 08/29/2016
+R	35,90,34.6,0,500000,1,45,55,3.5,2.5,3,2,-1e+099,
+R	
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	08:27:17 08/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:44:02 08/29/2016
+G0,enhanced.chm
+RRUN CONTROL	Run aborted by user	10:32:59 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:33:00 08/29/2016
+G0,
+RMETHOD	Acquired TH018.D	10:33:04 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	10:33:05 08/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	10:57:27 08/29/2016
+G0,enhanced.chm
+RACQ5973	Run started	11:10:00 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	11:46:59 08/29/2016
+G0,
+RMETHOD	Acquired TH018.D	11:47:00 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	11:47:01 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:47:28 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	13:24:28 08/29/2016
+G0,
+RMETHOD	Acquired TH019.D	13:24:30 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	13:24:31 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:39:46 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	14:16:46 08/29/2016
+G0,
+RMETHOD	Acquired CG2512.D	14:16:48 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	14:16:49 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:51:00 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	15:28:00 08/29/2016
+G0,
+RMETHOD	Acquired RE414.D	15:28:01 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	15:28:01 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:40:02 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	16:17:02 08/29/2016
+G0,
+RMETHOD	Acquired TH019.D	16:17:03 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	16:17:04 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	16:32:01 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	17:09:01 08/29/2016
+G0,
+RMETHOD	Acquired PP252PR.D	17:09:02 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	17:09:03 08/29/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	17:21:28 08/29/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	17:58:29 08/29/2016
+G0,
+RMETHOD	Acquired MST122_ROH.D	17:58:30 08/29/2016
+G0,
+REMF	Pump Oil (Days) at 1027, limit (90) has been	17:58:31 08/29/2016
+R	reached and Notification given
+G4999,enhanced.chm
+RMETHOD	Loading Method STANDBY.M	22:50:18 08/29/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD5.M	09:24:00 08/30/2016
+G4999,enhanced.chm
+RMETHOD	Loading Method 50-5-10-320SD3.M	09:47:58 08/30/2016
+G0,enhanced.chm
+RACQ5973	Run started	09:51:03 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	10:28:03 08/30/2016
+G0,
+RMETHOD	Acquired PP511PR.D	10:28:04 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	10:28:05 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	10:43:02 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	11:20:02 08/30/2016
+G0,
+RMETHOD	Acquired CG2521.D	11:20:04 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	11:20:05 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	11:29:42 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	12:06:42 08/30/2016
+G0,
+RMETHOD	Acquired PP266.D	12:06:43 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	12:06:44 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	12:19:58 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.00	12:56:58 08/30/2016
+G0,
+RMETHOD	Acquired CG2513.D	12:57:00 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	12:57:01 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	13:12:01 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	13:49:01 08/30/2016
+G0,
+RMETHOD	Acquired JC445.D	13:49:03 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	13:49:03 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	14:01:20 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	14:38:20 08/30/2016
+G0,
+RMETHOD	Acquired MM3220.D	14:38:21 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	14:38:21 08/30/2016
+R	reached and Notification given
+G0,enhanced.chm
+RACQ5973	Run started	15:05:20 08/30/2016
+G0,hpmsd.hlp
+R6890	Not ready:Host system at runtime 0.01	15:42:20 08/30/2016
+G0,
+RMETHOD	Acquired TH021.D	15:42:21 08/30/2016
+G0,
+REMF	Pump Oil (Days) at 1028, limit (90) has been	15:42:21 08/30/2016
+R	reached and Notification given
+G0,
+RCHEMSTATION	Shutdown occurred.	16:00:59 08/30/2016

@@ -4,7 +4,6 @@
 import sys
 import os
 import datetime # Umwandlung von Datum in Wochentag
-#import json
 import glob   #zum öffnen mehrerer files
 import csv # comma separated value
 import sqlite3 #sqlite3 database support
@@ -14,6 +13,7 @@ import matplotlib as plot
 import sqlite3
 import matplotlib.pyplot as plt
 import seaborn as sns
+
 
 def open_files():
     """
@@ -51,8 +51,6 @@ def open_files():
                 f_open.close()
                 file_counter += 1
             print("new log history created!\n")
-
-
     print (file_counter, "new files loaded!\n")
 
 
@@ -63,7 +61,6 @@ def data_converter():
 	Dazu werden die eingelesenen logfiles Zeile für Zeile durchsucht.
 	Zu Beginn der Funktion wird ein csv-file geöffnet und der output hineingeschrieben
 	"""
-
 	ofile  = open('gcdata.txt', "w")
 	writer = csv.writer(ofile, delimiter='\t', )
 	log_list = open("logs/log_history", 'r')# liste der logs öffnen
@@ -222,6 +219,7 @@ def injections_per_weekday():
 
 #main programm_________________________________________________________________
 menu ="""
+
 Welcome to GCStat!
 Type the number of the action you want to perform.
 1. Load logbooks
@@ -245,7 +243,6 @@ Most stats use a time frame. Use the format 'yyyy-mm-dd'.
 3. Show total number of injections per weekday in a given time frame
 4.
 5. Return to previous mode
-
 """
 
 
