@@ -91,7 +91,7 @@ def data_converter():
 def SQL_converter(x):  # create oder input
     """
     Diese Funktion soll das output file 'gcdata.txt' in eine SQLite Datenbank
-    einfügen. Am besten mit SQLAlchemy. Zuerst wird eine Standardverbindung
+    einfügen. Zuerst wird eine Standardverbindung
     über die Python API zur Datenbank aufgebaut. Wenn der Param. 'create' ist,
     wird eine Tabelle in der Datenbank angelegt. Ist der Param. 'input', so
     sollen die Daten aus gcdata.txt in die Tabelle eingefügt werden.
