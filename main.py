@@ -180,8 +180,13 @@ def total_injections_plot():
     end = input('End:')
     injections_per_day = df['date'].value_counts()
     injections_per_day = injections_per_day.sort_index()
-    injection_plot = injections_per_day.loc[str(start):str(end)]
-    injection_plot = injection_plot.plot(kind='bar')
+    injections_per_day = injections_per_day.loc[str(start):str(end)]
+    injection_plot = injections_per_day.plot()
+    # plot(kind='bar') sieht gut aus, funktioniert aber nicht als overlay
+    injections_per_day.expanding().mean().plot(ax=injection_plot)
+    # .expanding().mean() zeichnet kumulierten Durchschnitt
+    # ax=injection_plot zeichnet injections_per_day.plot() in
+    # den expanding-means-plot
     plt.title('Total number of injections per date')
     injection_plot.axes.get_xaxis().set_ticks([])
     print(str(injections_per_day.describe()))
