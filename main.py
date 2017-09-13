@@ -157,7 +157,12 @@ def check_entries():
     connection.close()
     print(entries, "entries in the database.")
 
+
 # STATISTICS
+weekdays_map = {1: 'Monday', 2: 'Tuesday', 3: 'Wednesday', 4: 'Thursday',
+                5: 'Friday', 6: 'Saturday', 7: 'Sunday'}
+weekdays_map2 = {'Monday': 2, 'Tuesday': 2, 'Wednesday': 3, 'Thursday': 4,
+                 'Friday': 5, 'Saturday': 6, 'Sunday': 7}
 
 
 def describe():
@@ -183,7 +188,7 @@ def total_injections_plot():
     injections_per_day = injections_per_day.loc[str(start):str(end)]
     injection_plot = injections_per_day.plot()
     # plot(kind='bar') sieht gut aus, funktioniert aber nicht als overlay
-    injections_per_day.expanding().mean().plot(ax=injection_plot)
+    injections_per_day.rolling(window=30).mean().plot(ax=injection_plot)
     # .expanding().mean() zeichnet kumulierten Durchschnitt
     # ax=injection_plot zeichnet injections_per_day.plot() in
     # den expanding-means-plot
@@ -223,7 +228,7 @@ def injections_per_weekday():
     injections_per_day = df.loc[str(start):str(end)]
     injections_per_weekday = injections_per_day['weekday'].value_counts()
     print(injections_per_weekday)
-    injections_per_weekday.plot(kind='bar')
+    injections_per_weekday.plot(kind='bar', x='Weekday')
     plt.title('Total number of injections from\n' + start + ' to ' + end +
               '\ngrouped by day of the week')
     plt.show()
