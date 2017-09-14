@@ -159,8 +159,8 @@ def check_entries():
 
 
 # STATISTICS
-weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-
+weekdays = ['Monday', 'Tuesday', 'Wednesday',
+            'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 
 def describe():
