@@ -10,6 +10,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 # import seaborn as sns
 
+# HIER WAR DER PENIS MANN
+
 
 def open_files():
     """
