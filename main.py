@@ -159,10 +159,8 @@ def check_entries():
 
 
 # STATISTICS
-weekdays_map = {1: 'Monday', 2: 'Tuesday', 3: 'Wednesday', 4: 'Thursday',
-                5: 'Friday', 6: 'Saturday', 7: 'Sunday'}
-weekdays_map2 = {'Monday': 2, 'Tuesday': 2, 'Wednesday': 3, 'Thursday': 4,
-                 'Friday': 5, 'Saturday': 6, 'Sunday': 7}
+weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+
 
 
 def describe():
@@ -227,8 +225,10 @@ def injections_per_weekday():
     # date muss index sein, damit loc die einträge findet
     injections_per_day = df.loc[str(start):str(end)]
     injections_per_weekday = injections_per_day['weekday'].value_counts()
+    injections_per_weekday = injections_per_weekday.reindex(weekdays)
+    # sorts weekdays naturally
     print(injections_per_weekday)
-    injections_per_weekday.plot(kind='bar', x='Weekday')
+    injections_per_weekday.plot(kind='bar')
     plt.title('Total number of injections from\n' + start + ' to ' + end +
               '\ngrouped by day of the week')
     plt.show()
