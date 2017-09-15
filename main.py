@@ -2,16 +2,14 @@
 # !C:/Program Files (x86)/Python 3.5/python.exe
 
 import os
-import datetime  # Umwandlung von Datum in Wochentag
-import glob   # zum öffnen mehrerer files
+import datetime  # convert dates to weekdays
+import glob   # open multiple files
 import csv  # comma separated value
 import sqlite3  # sqlite3 database support
 import pandas as pd
 import matplotlib.pyplot as plt
-
 import matplotlib as mpl
-mpl.style.use('ggplot') # Anderer Look für die Graphen
-# import seaborn as sns
+mpl.style.use('ggplot')  # different graph style
 
 
 def open_files():
@@ -56,19 +54,17 @@ def open_files():
 
 def data_converter():
     """
-    Funktion die die Dateinamen der gemessenen Chromatogramme in
-    Außerdem werden die Daten in Wochentage umgewandelt.
-    Dazu werden die eingelesenen logfiles Zeile für Zeile durchsucht.
-    Zu Beginn der Funktion wird ein csv-file geöffnet und der output
-    hineingeschrieben
+    This function converts the contents of all loaded log files into the
+    'gcdata.txt' file. It extracts only the information of when an analysis
+    has been started.
     """
     ofile = open('gcdata.txt', "w")
     writer = csv.writer(ofile, delimiter='\t', )
-    log_list = open("logs/log_history", 'r')  # liste der logs öffnen
-    for log in log_list:  # für jede Datei in log_list:
+    log_list = open("logs/log_history", 'r')
+    for log in log_list:
         with open(log.rstrip(), "r") as lines:
-            # öffne die logdatei ohne Zeilenumbruch
-            for line in lines:  # und für jede Zeile:
+            # open log with EOL
+            for line in lines:
                 line_stuff = line.split()
                 if line_stuff[0] == "RMETHOD" and line_stuff[1] == 'Acquired':
                     try:
@@ -78,8 +74,8 @@ def data_converter():
                         output = [line_stuff[3], line_stuff[4], weekday]
                         writer.writerow(output)
                     except (IndexError, ValueError):
-                        # manchmal sind Leerzeichen im run-title, dann muss
-                        # der list-index anders sein
+                        # Spaces may cause Errors. Shifting the list items
+                        # solves that issue
                         weekday = datetime.datetime.strptime(
                                     line_stuff[5], '%m/%d/%Y').strftime('%A')
                         print(line_stuff[4], line_stuff[5], weekday)
@@ -93,11 +89,9 @@ def data_converter():
 
 def SQL_converter(x):  # create oder input
     """
-    Diese Funktion soll das output file 'gcdata.txt' in eine SQLite Datenbank
-    einfügen. Zuerst wird eine Standardverbindung
-    über die Python API zur Datenbank aufgebaut. Wenn der Param. 'create' ist,
-    wird eine Tabelle in der Datenbank angelegt. Ist der Param. 'input', so
-    sollen die Daten aus gcdata.txt in die Tabelle eingefügt werden.
+    This function adds the contents of gcdata.txt into an SQLite3 database.
+    When using create as parameter, a database is constructed. Using 'input' as
+    parameter, the database is filled with content.
     """
     connection = sqlite3.connect("gc.db")
     cursor = connection.cursor()
@@ -111,9 +105,9 @@ def SQL_converter(x):  # create oder input
         weekday VARCHAR(80),
         CONSTRAINT unq UNIQUE (time, date));
         """
-        cursor.execute(sql_command)  # Befehl ausführen
-        connection.commit()  # Befehl abschicken
-        connection.close()  # Verbindung schließen
+        cursor.execute(sql_command)  # execute command
+        connection.commit()  # send to database
+        connection.close()  # close connection to database
 
     elif x == 'input':
         print('''Entries are added to the database. \n
@@ -134,8 +128,8 @@ def SQL_converter(x):  # create oder input
                 '{1}',
                 '{2}')
                 """.format(row[0], row[1], row[2])
-                # Eingabe der Variablen funktioniert nur, wenn
-                # List Index Error umgangen wird.
+                # input of variables only works when
+                # List Index Error is handled
                 cursor.execute(format_str)
             except IndexError:
                 pass
@@ -147,8 +141,7 @@ def SQL_converter(x):  # create oder input
 
 
 def check_entries():
-    # abrufen der Daten und ausgabe selbiger in der Konsole, um zu sehen,
-    # ob alles funktioniert hat
+    # simply print data to screen to check for errors
     entries = 0
     connection = sqlite3.connect("gc.db")
     cursor = connection.cursor()
@@ -164,6 +157,7 @@ def check_entries():
 # STATISTICS
 weekdays = ['Monday', 'Tuesday', 'Wednesday',
             'Thursday', 'Friday', 'Saturday', 'Sunday']
+# used for sorting columns in weekday plots
 
 
 def describe():
@@ -187,26 +181,12 @@ def total_injections_plot():
     injections_per_day = df['date'].value_counts()
     injections_per_day = injections_per_day.sort_index()
     injections_per_day = injections_per_day.loc[str(start):str(end)]
-    
-#    injection_plot = injections_per_day.plot()
-#    # plot(kind='bar') sieht gut aus, funktioniert aber nicht als overlay
-#    injections_per_day.rolling(window=30).mean().plot(ax=injection_plot)
-#    # .expanding().mean() zeichnet kumulierten Durchschnitt
-#    # ax=injection_plot zeichnet injections_per_day.plot() in
-#    # den expanding-means-plot
-#    plt.title('Total number of injections per date')
-#    injection_plot.axes.get_xaxis().set_ticks([])
-#    print(str(injections_per_day.describe()))
-#    plt.show()
-    
-    #### MEIN VORSCHLAG (FREDE)
-    # Habe mal bisschen mehr Einstellungen in die Darstellung gepackt! Kannst ja noch anpassen
-    injections_per_day.rolling(window=30).mean().plot(color='red',linewidth=1)
-    # Funktioniert so , wenn du Matplotlib Bar Plot nutzt
-    plt.bar(injections_per_day.index,injections_per_day,width=2,alpha=0.5, color='b')
+    injections_per_day.rolling(window=30).mean().plot(color='red', linewidth=1)
+    plt.bar(injections_per_day.index, injections_per_day,
+            width=2, alpha=0.5, color='b')
     plt.title('Total number of injections per date')
-    #Textbox im Graphen, Fenster muss dafür groß
-    plt.annotate(str(injections_per_day.describe()),xy=(0.85, 0.75), xycoords='axes fraction')
+    plt.annotate(str(injections_per_day.describe()), xy=(0.85, 0.75),
+                 xycoords='axes fraction')  # adding a legend
     plt.show()
 
 
@@ -227,7 +207,6 @@ def total_injections_hist():
     plt.show()
 
 
-# grouping not working!
 def injections_per_weekday():
     # total number of injections grouped by day of the week
     con = sqlite3.connect(r'gc.db')
