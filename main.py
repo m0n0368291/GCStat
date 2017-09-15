@@ -8,6 +8,9 @@ import csv  # comma separated value
 import sqlite3  # sqlite3 database support
 import pandas as pd
 import matplotlib.pyplot as plt
+
+import matplotlib as mpl
+mpl.style.use('ggplot') # Anderer Look für die Graphen
 # import seaborn as sns
 
 
@@ -184,15 +187,26 @@ def total_injections_plot():
     injections_per_day = df['date'].value_counts()
     injections_per_day = injections_per_day.sort_index()
     injections_per_day = injections_per_day.loc[str(start):str(end)]
-    injection_plot = injections_per_day.plot()
-    # plot(kind='bar') sieht gut aus, funktioniert aber nicht als overlay
-    injections_per_day.rolling(window=30).mean().plot(ax=injection_plot)
-    # .expanding().mean() zeichnet kumulierten Durchschnitt
-    # ax=injection_plot zeichnet injections_per_day.plot() in
-    # den expanding-means-plot
+    
+#    injection_plot = injections_per_day.plot()
+#    # plot(kind='bar') sieht gut aus, funktioniert aber nicht als overlay
+#    injections_per_day.rolling(window=30).mean().plot(ax=injection_plot)
+#    # .expanding().mean() zeichnet kumulierten Durchschnitt
+#    # ax=injection_plot zeichnet injections_per_day.plot() in
+#    # den expanding-means-plot
+#    plt.title('Total number of injections per date')
+#    injection_plot.axes.get_xaxis().set_ticks([])
+#    print(str(injections_per_day.describe()))
+#    plt.show()
+    
+    #### MEIN VORSCHLAG (FREDE)
+    # Habe mal bisschen mehr Einstellungen in die Darstellung gepackt! Kannst ja noch anpassen
+    injections_per_day.rolling(window=30).mean().plot(color='red',linewidth=1)
+    # Funktioniert so , wenn du Matplotlib Bar Plot nutzt
+    plt.bar(injections_per_day.index,injections_per_day,width=2,alpha=0.5, color='b')
     plt.title('Total number of injections per date')
-    injection_plot.axes.get_xaxis().set_ticks([])
-    print(str(injections_per_day.describe()))
+    #Textbox im Graphen, Fenster muss dafür groß
+    plt.annotate(str(injections_per_day.describe()),xy=(0.85, 0.75), xycoords='axes fraction')
     plt.show()
 
 
