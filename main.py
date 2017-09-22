@@ -9,6 +9,8 @@ import sqlite3  # sqlite3 database support
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib as mpl
+import numpy as np
+import seaborn as sns
 mpl.style.use('ggplot')  # different graph style
 
 
@@ -190,7 +192,6 @@ def total_injections_plot():
     plt.show()
 
 
-# NOT WORKING RIGHT?!
 def total_injections_hist():
     #  total number of times a certain number of injections ocurred on one day
     con = sqlite3.connect(r'gc.db')
@@ -201,9 +202,13 @@ def total_injections_hist():
     injections_per_day = df['date'].value_counts()
     injections_per_day = injections_per_day.sort_index()
     injections_per_day = injections_per_day.loc[str(start):str(end)]
-    plt.hist(injections_per_day, 25, normed=1, facecolor='g', alpha=0.75)
-    plt.title('''Number of times a certain number of \n
-                injections ocurred on a single day''')
+    width = injections_per_day.max()
+    plt.xticks(np.arange(width))
+    sns.distplot(injections_per_day, bins=width)
+    # plt.hist(injections_per_day, width, normed=1, alpha=0.8)
+    # bin width is not right yet!
+    title = 'Distribution of injections per day\n from ' + start + ' to ' + end
+    plt.title(title)
     plt.show()
 
 
@@ -251,7 +256,7 @@ Most stats use a time frame. Use the format 'yyyy-mm-dd'.
 1. Show general stats for a given time frame
 2. Show total number of injections per day (date) in a given time frame
 3. Show total number of injections per weekday in a given time frame
-4.
+4. Show a histogram for the number of injections per day in a given time frame
 5. Return to previous mode
 """
 
@@ -330,6 +335,7 @@ while True:
                 total_injections_plot()
             elif choice2 == "3":
                 injections_per_weekday()
-            # elif choice == "4":
+            elif choice2 == "4":
+                total_injections_hist()
             elif choice2 == "5":
                 break
