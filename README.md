@@ -21,10 +21,7 @@ CLI to read out logbook files of GC/MS Systems and do statistical analysis of ac
 - [x] give a short report of analyses for a given time frame
 - [x] output a plot for all sample analyses in a given time frame
 - [x] output a plot for all sample analyses in i given time frame grouped by day of week
-- [ ] histogram for injections per day
-- [ ] total time spent 'inrun'
-- [ ] average time spent 'inrun' per day / total workload per day
-*and possibly more*
+- [x] histogram for injections per day
 
 ## Notes & Help
 
