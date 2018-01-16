@@ -1,11 +1,19 @@
 # GCStat
-CLI to read out logbook files of GC/MS Systems and do statistical analysis of activity und overall performance.
+GCStat is an interactive script to read out logbook files of GC/MS Systems and do statistical analysis of activity und overall performance.
 
 ## Features
 
-- Converts logbook files into an SQLite3 database
+- Parses logbook files and inserts information into an SQLite3 database
 - Performs statistical calculations
 - Generates various reports
+
+Example reports are given below:
+
+![Total number of injections in given time frame sorted by weekday](https://github.com/m0n0368291/GCStat/blob/master/tot_inj_date.bmp)
+
+![Total number of injections in given time frame sorted by weekday](https://github.com/m0n0368291/GCStat/blob/master/tot_inj_weekday.bmp)
+
+![Total number of injections in given time frame shown as count plot](https://github.com/m0n0368291/GCStat/blob/master/tot_inj_countplot.bmp)
 
 ## Getting Started
 - Install Python 3.X and Git from official sources like [Python.org](https://www.python.org/) or [git-scm.com](https://git-scm.com/download/win)
